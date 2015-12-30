@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1, ALEGE TV CRAIOVA
+http://178.63.14.14:1935/live/monarch.stream/playlist.m3u8
+#EXTINF:-1, ANTENA 1
+http://iphone-streaming.ustream.tv/ustreamVideo/12584497/streams/live/playlist.m3u8
+#EXTINF:-1, ATOMIC TV
+http://5.154.185.153/hls/live.m3u8
+#EXTINF:-1, BANAT TV
+http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+#EXTINF:-1, DIGI 24
+http://82.76.249.77:80/digi24edge/digi24hdmqhls/index.m3u8
+#EXTINF:-1, DIGI 24
+http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1, EURO SPORT RO
+http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digionline.ro&t=00000000000000000000000000000000
+#EXTINF:-1, KANAL D
+http://80.86.107.169:8100/stream.flv
+#EXTINF:-1, KISS FM
+http://80.86.106.136:80/
+#EXTINF:-1, MAGIC FM
+http://80.86.106.35:9000/
+#EXTINF:-1, ROMANIA
+http://rtv.smcmobile.ro:8080/RTV.m3u8
+#EXTINF:-1, TVR1
+http://178.21.122.94:1935/live/_definst_/tvr1/playlist.m3u8
+#EXTINF:-1, TVR2
+http://178.21.122.94:1935/live/_definst_/tvr2/index.m3u
+#EXTINF:-1, UTV
+http://82.76.249.77:80/utvedge/utvlive/index.m3u8
+#EXTING:-1, NATIONAL TV
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_national_tv.stream
+#EXTING:-1, PRIMA TV
+sop://broker.sopcast.com:3912/148086
